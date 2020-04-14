@@ -1,0 +1,40 @@
+{
+  "files": {
+    "app.js": "/static/js/app.8a05c57b.chunk.js",
+    "app.js.map": "/static/js/app.8a05c57b.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.b3244af7.js",
+    "runtime~app.js.map": "/static/js/runtime~app.b3244af7.js.map",
+    "static/js/2.64f874e9.chunk.js": "/static/js/2.64f874e9.chunk.js",
+    "static/js/2.64f874e9.chunk.js.map": "/static/js/2.64f874e9.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/media/Komiku_BattleOfPogs.mp3": "/static/media/Komiku_BattleOfPogs.60522ecb.mp3",
+    "static/media/Komiku_Mushrooms.mp3": "/static/media/Komiku_Mushrooms.42cec8b3.mp3",
+    "static/media/button.wav": "/static/media/button.87624f77.wav",
+    "static/media/clock.png": "/static/media/clock.75e2e697.png",
+    "static/media/dead.png": "/static/media/dead.bc60ff0b.png",
+    "static/media/leaderboard.png": "/static/media/leaderboard.cf59a985.png",
+    "static/media/lose.wav": "/static/media/lose.b8d1ac91.wav",
+    "static/media/mug.png": "/static/media/mug.bde7fcbc.png",
+    "static/media/pause.png": "/static/media/pause.5efeb52c.png",
+    "static/media/pause_in.wav": "/static/media/pause_in.3cfb0337.wav",
+    "static/media/pause_out.wav": "/static/media/pause_out.a225be5b.wav",
+    "static/media/play.png": "/static/media/play.05313e56.png",
+    "static/media/play_arrow.png": "/static/media/play_arrow.715a71a1.png",
+    "static/media/replay.png": "/static/media/replay.49e2a771.png",
+    "static/media/speaker-off.png": "/static/media/speaker-off.22daf4c9.png",
+    "static/media/speaker-on.png": "/static/media/speaker-on.e15576ad.png",
+    "static/media/tile_tap.wav": "/static/media/tile_tap.dcb7aa8d.wav",
+    "static/media/tile_wrong.wav": "/static/media/tile_wrong.ef02fbb4.wav",
+    "static/media/trophy.png": "/static/media/trophy.efafed60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.b3244af7.js",
+    "static/js/2.64f874e9.chunk.js",
+    "static/js/app.8a05c57b.chunk.js"
+  ]
+}
